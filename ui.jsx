@@ -1,5 +1,3 @@
-// src/components/ui.jsx
-
 export function Card({ children, onClick }) {
     return (
       <div className="p-4 border rounded-xl shadow-md cursor-pointer" onClick={onClick}>
